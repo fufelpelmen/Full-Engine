@@ -22,13 +22,6 @@ Full Engine - это мощный и гибкий движок на языке P
 
 ```python
 import pygame
-import sys
-import os
-import importlib.util
-import warnings
-import json
-import pygame
-
 class PingPongMod:
     def __init__(self, game):
         self.game = game
